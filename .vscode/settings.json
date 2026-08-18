@@ -20,6 +20,7 @@
   // 크롬 브라우저 디버깅용 창이 뜨는 것을 방지합니다.
   "liveServer.settings.ChromeDebuggingAttachment": false,
 
+  "liveServer.settings.CustomBrowser": "chrome",
 
   // --- Prettier (코드 자동 정렬) 관련 설정 ---
   // 아래는 HTML, CSS, JavaScript 파일 각각에 대해 코드 정렬 규칙을 적용합니다.
